@@ -1,0 +1,555 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		8CEC21832E3BE39C000180BC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8CEC216D2E3BE39A000180BC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8CEC21742E3BE39A000180BC;
+			remoteInfo = "ＭySocialBattery";
+		};
+		8CEC218D2E3BE39C000180BC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8CEC216D2E3BE39A000180BC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8CEC21742E3BE39A000180BC;
+			remoteInfo = "ＭySocialBattery";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8CEC21752E3BE39A000180BC /* ＭySocialBattery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ＭySocialBattery.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CEC21822E3BE39C000180BC /* ＭySocialBatteryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ＭySocialBatteryTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CEC218C2E3BE39C000180BC /* ＭySocialBatteryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ＭySocialBatteryUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		8CEC21772E3BE39A000180BC /* ＭySocialBattery */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "ＭySocialBattery";
+			sourceTree = "<group>";
+		};
+		8CEC21852E3BE39C000180BC /* ＭySocialBatteryTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "ＭySocialBatteryTests";
+			sourceTree = "<group>";
+		};
+		8CEC218F2E3BE39C000180BC /* ＭySocialBatteryUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "ＭySocialBatteryUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8CEC21722E3BE39A000180BC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CEC217F2E3BE39C000180BC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CEC21892E3BE39C000180BC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8CEC216C2E3BE39A000180BC = {
+			isa = PBXGroup;
+			children = (
+				8CEC21772E3BE39A000180BC /* ＭySocialBattery */,
+				8CEC21852E3BE39C000180BC /* ＭySocialBatteryTests */,
+				8CEC218F2E3BE39C000180BC /* ＭySocialBatteryUITests */,
+				8CEC21762E3BE39A000180BC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8CEC21762E3BE39A000180BC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8CEC21752E3BE39A000180BC /* ＭySocialBattery.app */,
+				8CEC21822E3BE39C000180BC /* ＭySocialBatteryTests.xctest */,
+				8CEC218C2E3BE39C000180BC /* ＭySocialBatteryUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8CEC21742E3BE39A000180BC /* ＭySocialBattery */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8CEC21962E3BE39C000180BC /* Build configuration list for PBXNativeTarget "ＭySocialBattery" */;
+			buildPhases = (
+				8CEC21712E3BE39A000180BC /* Sources */,
+				8CEC21722E3BE39A000180BC /* Frameworks */,
+				8CEC21732E3BE39A000180BC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				8CEC21772E3BE39A000180BC /* ＭySocialBattery */,
+			);
+			name = "ＭySocialBattery";
+			packageProductDependencies = (
+			);
+			productName = "ＭySocialBattery";
+			productReference = 8CEC21752E3BE39A000180BC /* ＭySocialBattery.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8CEC21812E3BE39C000180BC /* ＭySocialBatteryTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8CEC21992E3BE39C000180BC /* Build configuration list for PBXNativeTarget "ＭySocialBatteryTests" */;
+			buildPhases = (
+				8CEC217E2E3BE39C000180BC /* Sources */,
+				8CEC217F2E3BE39C000180BC /* Frameworks */,
+				8CEC21802E3BE39C000180BC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8CEC21842E3BE39C000180BC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				8CEC21852E3BE39C000180BC /* ＭySocialBatteryTests */,
+			);
+			name = "ＭySocialBatteryTests";
+			packageProductDependencies = (
+			);
+			productName = "ＭySocialBatteryTests";
+			productReference = 8CEC21822E3BE39C000180BC /* ＭySocialBatteryTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8CEC218B2E3BE39C000180BC /* ＭySocialBatteryUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8CEC219C2E3BE39C000180BC /* Build configuration list for PBXNativeTarget "ＭySocialBatteryUITests" */;
+			buildPhases = (
+				8CEC21882E3BE39C000180BC /* Sources */,
+				8CEC21892E3BE39C000180BC /* Frameworks */,
+				8CEC218A2E3BE39C000180BC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8CEC218E2E3BE39C000180BC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				8CEC218F2E3BE39C000180BC /* ＭySocialBatteryUITests */,
+			);
+			name = "ＭySocialBatteryUITests";
+			packageProductDependencies = (
+			);
+			productName = "ＭySocialBatteryUITests";
+			productReference = 8CEC218C2E3BE39C000180BC /* ＭySocialBatteryUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8CEC216D2E3BE39A000180BC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					8CEC21742E3BE39A000180BC = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					8CEC21812E3BE39C000180BC = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 8CEC21742E3BE39A000180BC;
+					};
+					8CEC218B2E3BE39C000180BC = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 8CEC21742E3BE39A000180BC;
+					};
+				};
+			};
+			buildConfigurationList = 8CEC21702E3BE39A000180BC /* Build configuration list for PBXProject "ＭySocialBattery" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8CEC216C2E3BE39A000180BC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 8CEC21762E3BE39A000180BC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8CEC21742E3BE39A000180BC /* ＭySocialBattery */,
+				8CEC21812E3BE39C000180BC /* ＭySocialBatteryTests */,
+				8CEC218B2E3BE39C000180BC /* ＭySocialBatteryUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8CEC21732E3BE39A000180BC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CEC21802E3BE39C000180BC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CEC218A2E3BE39C000180BC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8CEC21712E3BE39A000180BC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CEC217E2E3BE39C000180BC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CEC21882E3BE39C000180BC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8CEC21842E3BE39C000180BC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8CEC21742E3BE39A000180BC /* ＭySocialBattery */;
+			targetProxy = 8CEC21832E3BE39C000180BC /* PBXContainerItemProxy */;
+		};
+		8CEC218E2E3BE39C000180BC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8CEC21742E3BE39A000180BC /* ＭySocialBattery */;
+			targetProxy = 8CEC218D2E3BE39C000180BC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		8CEC21942E3BE39C000180BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8CEC21952E3BE39C000180BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8CEC21972E3BE39C000180BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "blabla.-ySocialBattery";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8CEC21982E3BE39C000180BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "blabla.-ySocialBattery";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8CEC219A2E3BE39C000180BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "blabla.-ySocialBatteryTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ＭySocialBattery.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ＭySocialBattery";
+			};
+			name = Debug;
+		};
+		8CEC219B2E3BE39C000180BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "blabla.-ySocialBatteryTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ＭySocialBattery.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ＭySocialBattery";
+			};
+			name = Release;
+		};
+		8CEC219D2E3BE39C000180BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "blabla.-ySocialBatteryUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "ＭySocialBattery";
+			};
+			name = Debug;
+		};
+		8CEC219E2E3BE39C000180BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "blabla.-ySocialBatteryUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "ＭySocialBattery";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8CEC21702E3BE39A000180BC /* Build configuration list for PBXProject "ＭySocialBattery" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CEC21942E3BE39C000180BC /* Debug */,
+				8CEC21952E3BE39C000180BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8CEC21962E3BE39C000180BC /* Build configuration list for PBXNativeTarget "ＭySocialBattery" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CEC21972E3BE39C000180BC /* Debug */,
+				8CEC21982E3BE39C000180BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8CEC21992E3BE39C000180BC /* Build configuration list for PBXNativeTarget "ＭySocialBatteryTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CEC219A2E3BE39C000180BC /* Debug */,
+				8CEC219B2E3BE39C000180BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8CEC219C2E3BE39C000180BC /* Build configuration list for PBXNativeTarget "ＭySocialBatteryUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CEC219D2E3BE39C000180BC /* Debug */,
+				8CEC219E2E3BE39C000180BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8CEC216D2E3BE39A000180BC /* Project object */;
+}
